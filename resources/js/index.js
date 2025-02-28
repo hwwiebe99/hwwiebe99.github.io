@@ -46,7 +46,7 @@ function leaveMove() {
         {
             if(counter == 1 && counter2 == 0)
             {
-                if(pos == 20)
+                if(pos == 40)
                 {
                     clearInterval(id);
                 }
